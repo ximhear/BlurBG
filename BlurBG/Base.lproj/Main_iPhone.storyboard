@@ -33,7 +33,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="nQe-AA-NA1" kind="modal" identifier="BlurVC" id="y8E-e1-Avs"/>
+                                    <segue destination="nQe-AA-NA1" kind="modal" identifier="BlurVC" modalTransitionStyle="crossDissolve" id="y8E-e1-Avs"/>
                                 </connections>
                             </button>
                         </subviews>
